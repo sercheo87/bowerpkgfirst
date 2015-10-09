@@ -5,6 +5,10 @@
     "sercheo87 <chancaysergio@gmail.com>"
   ],
   "description": "My first bower package",
+  "main": [
+    "js/motion.js",
+    "sass/motion.scss"
+  ],
   "moduleType": [
     "globals",
     "node"
