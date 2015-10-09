@@ -1,0 +1,25 @@
+{
+  "name": "bowerpkgfirst",
+  "version": "1.0.0",
+  "authors": [
+    "sercheo87 <chancaysergio@gmail.com>"
+  ],
+  "description": "My first bower package",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "package",
+    "node",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
